@@ -1,0 +1,7 @@
+logs/*
+ckpt/*.pt
+*.pt
+*.log
+*.csv
+data/*
+
