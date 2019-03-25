@@ -2,3 +2,5 @@ logs/*
 ckpt/*.pt
 *.pt
 *.log
+*ipynb*
+__pycache__*
