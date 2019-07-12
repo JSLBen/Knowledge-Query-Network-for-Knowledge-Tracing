@@ -1,4 +1,4 @@
-# PyTorch Implementation of [Knowledge Query Network for Knowledge Tracing`[LAK19]`](https://dl.acm.org/citation.cfm?id=3303772.3303786)
+# PyTorch Implementation of [Knowledge Query Network for Knowledge Tracing`[LAK19]`](https://dl.acm.org/authorize?N687433)
 (*Dropout* not used in the implementation.)
 # Requirements
 1. Python 3.6
